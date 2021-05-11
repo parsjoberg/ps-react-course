@@ -2,6 +2,7 @@ DevDependencies
 react-docgen@2.14.0
 chokidar@1.6.1
 npm-run-all@4.0.2
+styled-components@1.4.5
 
 DevDependencies
 higlight.js@9.10.0
